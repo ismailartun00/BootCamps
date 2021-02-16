@@ -11,8 +11,8 @@ namespace _32_Linq {
             };
             List<Product> products = new List<Product> {
                 new Product{ProductId = 1, CategoryId=1, ProductName = "Acer Laptop", QuantityPerUnit = "32 GB Ram", UnitPrice = 10000, UnitsInStock = 5},
-                new Product{ProductId = 2, CategoryId=1, ProductName = "Asus Laptop", QuantityPerUnit = "16 GB Ram", UnitPrice = 8000, UnitsInStock = 3},
-                new Product{ProductId = 3, CategoryId=1, ProductName = "Hp Laptop", QuantityPerUnit = "8 GB Ram", UnitPrice = 6000, UnitsInStock = 2},
+                new Product{ProductId = 2, CategoryId=1, ProductName = "Asus Laptop", QuantityPerUnit = "16 GB Ram", UnitPrice = 18000, UnitsInStock = 3},
+                new Product{ProductId = 3, CategoryId=1, ProductName = "Hp Laptop", QuantityPerUnit = "8 GB Ram", UnitPrice = 18000, UnitsInStock = 2},
                 new Product{ProductId = 4, CategoryId=2, ProductName = "Samsung Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 5000, UnitsInStock = 15},
                 new Product{ProductId = 5, CategoryId=2, ProductName = "Apple Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 8000, UnitsInStock = 0},
             };
@@ -28,7 +28,64 @@ namespace _32_Linq {
             //aradığımız kritere uygun nesnenin kendisini verir.
             //FindTest(products);
 
-            products.FindAll();
+            //içerisinde top içeren ürünleri getirir.
+            //FindAllTest(products);
+
+            //içerisinde top içeren ürünleri fiyatı artan sıralamaya göre getirir, eğer fiyatları aynı ise isme göre sıralayıp getirir.
+            //AscDescTest(products);
+
+            //farklı bir linq kullanımı
+            //DifferentUsingLinq(products);
+
+            //ClassicLinqTest(products, categories);
+
+            var result = from p in products
+                         join c in categories
+                         on p.CategoryId equals c.CategoryId
+                         where p.UnitPrice>5000
+                         orderby p.UnitPrice descending
+                         select new ProductDto { ProductId = p.ProductId, CategoryName = c.CategoryName, ProductName = p.ProductName, UnitPrice = p.UnitPrice };
+
+            foreach (var productDto in result) {
+                Console.WriteLine("{0} ------- {1}",productDto.ProductName, productDto.CategoryName);
+            }
+        }
+
+        private static void ClassicLinqTest(List<Product> products, List<Category> categories) {
+            var result = from p in products
+                         join c in categories
+                         on p.CategoryId equals c.CategoryId
+                         where p.UnitPrice > 6000
+                         orderby p.UnitPrice descending, p.ProductName ascending
+                         select new ProductDto { ProductId = p.ProductId, ProductName = p.ProductName, UnitPrice = p.UnitPrice, CategoryName = c.CategoryName };
+            foreach (var product in products) {
+                Console.WriteLine(product.ProductName);
+            }
+        }
+
+        private static void DifferentUsingLinq(List<Product> products) {
+            var result = from p in products
+                         where p.UnitPrice > 6000
+                         orderby p.UnitPrice descending, p.ProductName ascending
+                         select p;
+            foreach (var product in products) {
+                Console.WriteLine(product.ProductName);
+            }
+        }
+
+        private static void AscDescTest(List<Product> products) {
+            //Sİngle Line Query
+
+            var result = products.Where(p => p.ProductName.Contains("top")).OrderByDescending(p => p.UnitPrice).ThenByDescending(p => p.ProductName);
+            //var result = products.Where(p => p.ProductName.Contains("top")).OrderBy(p=>p.UnitPrice);
+            foreach (var product in result) {
+                Console.WriteLine(product.ProductName);
+            }
+        }
+
+        private static void FindAllTest(List<Product> products) {
+            var result = products.FindAll(p => p.ProductName.Contains("top"));
+            Console.WriteLine(result);
         }
 
         private static void FindTest(List<Product> products) {
@@ -68,6 +125,12 @@ namespace _32_Linq {
         static List<Product> GetProductsLinq(List<Product> products) {
             return products.Where(p => p.UnitPrice > 5000 && p.UnitsInStock > 3).ToList();
         }
+    }
+    class ProductDto {
+        public int ProductId { get; set; }
+        public string CategoryName { get; set; }
+        public string ProductName { get; set; }
+        public decimal UnitPrice { get; set; }
     }
     class Product {
         public int ProductId { get; set; }
