@@ -1,0 +1,13 @@
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\bin\Debug\netcoreapp3.1\25-Interfaces.exe
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\bin\Debug\netcoreapp3.1\25-Interfaces.deps.json
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\bin\Debug\netcoreapp3.1\25-Interfaces.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\bin\Debug\netcoreapp3.1\25-Interfaces.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\bin\Debug\netcoreapp3.1\25-Interfaces.dll
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\bin\Debug\netcoreapp3.1\25-Interfaces.pdb
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\obj\Debug\netcoreapp3.1\25-Interfaces.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\obj\Debug\netcoreapp3.1\25-Interfaces.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\obj\Debug\netcoreapp3.1\25-Interfaces.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\obj\Debug\netcoreapp3.1\25-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\obj\Debug\netcoreapp3.1\25-Interfaces.dll
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\obj\Debug\netcoreapp3.1\25-Interfaces.pdb
+C:\Users\iartu\source\repos\KampIntro\25-Interfaces\obj\Debug\netcoreapp3.1\25-Interfaces.genruntimeconfig.cache

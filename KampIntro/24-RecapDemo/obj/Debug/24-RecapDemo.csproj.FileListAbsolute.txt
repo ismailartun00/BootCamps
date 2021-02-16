@@ -1,0 +1,10 @@
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\obj\Debug\24-RecapDemo.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\obj\Debug\_24_RecapDemo.Form1.resources
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\obj\Debug\_24_RecapDemo.Properties.Resources.resources
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\obj\Debug\24-RecapDemo.csproj.GenerateResource.cache
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\obj\Debug\24-RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\bin\Debug\24-RecapDemo.exe.config
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\bin\Debug\24-RecapDemo.exe
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\bin\Debug\24-RecapDemo.pdb
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\obj\Debug\24-RecapDemo.exe
+C:\Users\iartu\source\repos\KampIntro\24-RecapDemo\obj\Debug\24-RecapDemo.pdb

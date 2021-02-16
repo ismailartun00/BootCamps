@@ -1,0 +1,12 @@
+C:\Users\iartu\source\repos\KampIntro\32-Linq\bin\Debug\netcoreapp3.1\32-LinqProject.exe
+C:\Users\iartu\source\repos\KampIntro\32-Linq\bin\Debug\netcoreapp3.1\32-LinqProject.deps.json
+C:\Users\iartu\source\repos\KampIntro\32-Linq\bin\Debug\netcoreapp3.1\32-LinqProject.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\32-Linq\bin\Debug\netcoreapp3.1\32-LinqProject.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\32-Linq\bin\Debug\netcoreapp3.1\32-LinqProject.dll
+C:\Users\iartu\source\repos\KampIntro\32-Linq\bin\Debug\netcoreapp3.1\32-LinqProject.pdb
+C:\Users\iartu\source\repos\KampIntro\32-Linq\obj\Debug\netcoreapp3.1\32-LinqProject.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\32-Linq\obj\Debug\netcoreapp3.1\32-LinqProject.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\32-Linq\obj\Debug\netcoreapp3.1\32-LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\32-Linq\obj\Debug\netcoreapp3.1\32-LinqProject.dll
+C:\Users\iartu\source\repos\KampIntro\32-Linq\obj\Debug\netcoreapp3.1\32-LinqProject.pdb
+C:\Users\iartu\source\repos\KampIntro\32-Linq\obj\Debug\netcoreapp3.1\32-LinqProject.genruntimeconfig.cache

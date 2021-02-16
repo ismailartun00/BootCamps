@@ -1,0 +1,13 @@
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\bin\Debug\netcoreapp3.1\3-ClassIntro.exe
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\bin\Debug\netcoreapp3.1\3-ClassIntro.deps.json
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\bin\Debug\netcoreapp3.1\3-ClassIntro.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\bin\Debug\netcoreapp3.1\3-ClassIntro.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\bin\Debug\netcoreapp3.1\3-ClassIntro.dll
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\bin\Debug\netcoreapp3.1\3-ClassIntro.pdb
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\obj\Debug\netcoreapp3.1\3-ClassIntro.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\obj\Debug\netcoreapp3.1\3-ClassIntro.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\obj\Debug\netcoreapp3.1\3-ClassIntro.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\obj\Debug\netcoreapp3.1\3-ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\obj\Debug\netcoreapp3.1\3-ClassIntro.dll
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\obj\Debug\netcoreapp3.1\3-ClassIntro.pdb
+C:\Users\iartu\source\repos\KampIntro\3-ClassIntro\obj\Debug\netcoreapp3.1\3-ClassIntro.genruntimeconfig.cache

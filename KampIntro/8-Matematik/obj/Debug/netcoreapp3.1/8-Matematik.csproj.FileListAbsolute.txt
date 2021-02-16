@@ -1,0 +1,12 @@
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\bin\Debug\netcoreapp3.1\8-Matematik.exe
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\bin\Debug\netcoreapp3.1\8-Matematik.deps.json
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\bin\Debug\netcoreapp3.1\8-Matematik.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\bin\Debug\netcoreapp3.1\8-Matematik.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\bin\Debug\netcoreapp3.1\8-Matematik.dll
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\bin\Debug\netcoreapp3.1\8-Matematik.pdb
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\obj\Debug\netcoreapp3.1\8-Matematik.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\obj\Debug\netcoreapp3.1\8-Matematik.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\obj\Debug\netcoreapp3.1\8-Matematik.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\obj\Debug\netcoreapp3.1\8-Matematik.dll
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\obj\Debug\netcoreapp3.1\8-Matematik.pdb
+C:\Users\iartu\source\repos\KampIntro\8-Matematik\obj\Debug\netcoreapp3.1\8-Matematik.genruntimeconfig.cache

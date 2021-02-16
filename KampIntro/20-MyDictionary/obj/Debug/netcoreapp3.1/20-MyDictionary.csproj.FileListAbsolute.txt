@@ -1,0 +1,13 @@
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\bin\Debug\netcoreapp3.1\20-MyDictionary.exe
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\bin\Debug\netcoreapp3.1\20-MyDictionary.deps.json
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\bin\Debug\netcoreapp3.1\20-MyDictionary.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\bin\Debug\netcoreapp3.1\20-MyDictionary.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\bin\Debug\netcoreapp3.1\20-MyDictionary.dll
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\bin\Debug\netcoreapp3.1\20-MyDictionary.pdb
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\obj\Debug\netcoreapp3.1\20-MyDictionary.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\obj\Debug\netcoreapp3.1\20-MyDictionary.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\obj\Debug\netcoreapp3.1\20-MyDictionary.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\obj\Debug\netcoreapp3.1\20-MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\obj\Debug\netcoreapp3.1\20-MyDictionary.dll
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\obj\Debug\netcoreapp3.1\20-MyDictionary.pdb
+C:\Users\iartu\source\repos\KampIntro\20-MyDictionary\obj\Debug\netcoreapp3.1\20-MyDictionary.genruntimeconfig.cache

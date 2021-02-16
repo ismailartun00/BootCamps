@@ -1,0 +1,13 @@
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\bin\Debug\netcoreapp3.1\12-ClassMethodDemo.exe
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\bin\Debug\netcoreapp3.1\12-ClassMethodDemo.deps.json
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\bin\Debug\netcoreapp3.1\12-ClassMethodDemo.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\bin\Debug\netcoreapp3.1\12-ClassMethodDemo.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\bin\Debug\netcoreapp3.1\12-ClassMethodDemo.dll
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\bin\Debug\netcoreapp3.1\12-ClassMethodDemo.pdb
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\obj\Debug\netcoreapp3.1\12-ClassMethodDemo.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\obj\Debug\netcoreapp3.1\12-ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\obj\Debug\netcoreapp3.1\12-ClassMethodDemo.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\obj\Debug\netcoreapp3.1\12-ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\obj\Debug\netcoreapp3.1\12-ClassMethodDemo.dll
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\obj\Debug\netcoreapp3.1\12-ClassMethodDemo.pdb
+C:\Users\iartu\source\repos\KampIntro\12-ClassMethodDemo\obj\Debug\netcoreapp3.1\12-ClassMethodDemo.genruntimeconfig.cache

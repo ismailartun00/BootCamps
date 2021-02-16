@@ -1,0 +1,12 @@
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\bin\Debug\netcoreapp3.1\11-Arrays.exe
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\bin\Debug\netcoreapp3.1\11-Arrays.deps.json
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\bin\Debug\netcoreapp3.1\11-Arrays.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\bin\Debug\netcoreapp3.1\11-Arrays.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\bin\Debug\netcoreapp3.1\11-Arrays.dll
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\bin\Debug\netcoreapp3.1\11-Arrays.pdb
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\obj\Debug\netcoreapp3.1\11-Arrays.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\obj\Debug\netcoreapp3.1\11-Arrays.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\obj\Debug\netcoreapp3.1\11-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\obj\Debug\netcoreapp3.1\11-Arrays.dll
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\obj\Debug\netcoreapp3.1\11-Arrays.pdb
+C:\Users\iartu\source\repos\KampIntro\11-Arrays\obj\Debug\netcoreapp3.1\11-Arrays.genruntimeconfig.cache

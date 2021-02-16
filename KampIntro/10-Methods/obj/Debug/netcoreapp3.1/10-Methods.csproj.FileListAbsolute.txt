@@ -1,0 +1,13 @@
+C:\Users\iartu\source\repos\KampIntro\10-Methods\bin\Debug\netcoreapp3.1\10-Methods.exe
+C:\Users\iartu\source\repos\KampIntro\10-Methods\bin\Debug\netcoreapp3.1\10-Methods.deps.json
+C:\Users\iartu\source\repos\KampIntro\10-Methods\bin\Debug\netcoreapp3.1\10-Methods.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\10-Methods\bin\Debug\netcoreapp3.1\10-Methods.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\10-Methods\bin\Debug\netcoreapp3.1\10-Methods.dll
+C:\Users\iartu\source\repos\KampIntro\10-Methods\bin\Debug\netcoreapp3.1\10-Methods.pdb
+C:\Users\iartu\source\repos\KampIntro\10-Methods\obj\Debug\netcoreapp3.1\10-Methods.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\10-Methods\obj\Debug\netcoreapp3.1\10-Methods.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\10-Methods\obj\Debug\netcoreapp3.1\10-Methods.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\10-Methods\obj\Debug\netcoreapp3.1\10-Methods.dll
+C:\Users\iartu\source\repos\KampIntro\10-Methods\obj\Debug\netcoreapp3.1\10-Methods.pdb
+C:\Users\iartu\source\repos\KampIntro\10-Methods\obj\Debug\netcoreapp3.1\10-Methods.genruntimeconfig.cache
+C:\Users\iartu\source\repos\KampIntro\10-Methods\obj\Debug\netcoreapp3.1\10-Methods.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\bin\Debug\netcoreapp3.1\22-OOP3.exe
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\bin\Debug\netcoreapp3.1\22-OOP3.deps.json
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\bin\Debug\netcoreapp3.1\22-OOP3.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\bin\Debug\netcoreapp3.1\22-OOP3.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\bin\Debug\netcoreapp3.1\22-OOP3.dll
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\bin\Debug\netcoreapp3.1\22-OOP3.pdb
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\obj\Debug\netcoreapp3.1\22-OOP3.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\obj\Debug\netcoreapp3.1\22-OOP3.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\obj\Debug\netcoreapp3.1\22-OOP3.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\obj\Debug\netcoreapp3.1\22-OOP3.dll
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\obj\Debug\netcoreapp3.1\22-OOP3.pdb
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\obj\Debug\netcoreapp3.1\22-OOP3.genruntimeconfig.cache
+C:\Users\iartu\source\repos\KampIntro\22-OOP3\obj\Debug\netcoreapp3.1\22-OOP3.csprojAssemblyReference.cache

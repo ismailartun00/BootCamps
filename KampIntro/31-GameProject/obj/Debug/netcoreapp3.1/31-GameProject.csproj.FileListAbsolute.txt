@@ -1,0 +1,13 @@
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\obj\Debug\netcoreapp3.1\31-GameProject.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\obj\Debug\netcoreapp3.1\31-GameProject.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\obj\Debug\netcoreapp3.1\31-GameProject.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\obj\Debug\netcoreapp3.1\31-GameProject.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\bin\Debug\netcoreapp3.1\31-GameProject.exe
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\bin\Debug\netcoreapp3.1\31-GameProject.deps.json
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\bin\Debug\netcoreapp3.1\31-GameProject.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\bin\Debug\netcoreapp3.1\31-GameProject.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\bin\Debug\netcoreapp3.1\31-GameProject.dll
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\bin\Debug\netcoreapp3.1\31-GameProject.pdb
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\obj\Debug\netcoreapp3.1\31-GameProject.dll
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\obj\Debug\netcoreapp3.1\31-GameProject.pdb
+C:\Users\iartu\source\repos\KampIntro\31-GameProject\obj\Debug\netcoreapp3.1\31-GameProject.genruntimeconfig.cache

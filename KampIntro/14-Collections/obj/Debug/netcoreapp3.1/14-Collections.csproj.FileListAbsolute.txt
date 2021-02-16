@@ -1,0 +1,12 @@
+C:\Users\iartu\source\repos\KampIntro\14-Collections\bin\Debug\netcoreapp3.1\14-Collections.exe
+C:\Users\iartu\source\repos\KampIntro\14-Collections\bin\Debug\netcoreapp3.1\14-Collections.deps.json
+C:\Users\iartu\source\repos\KampIntro\14-Collections\bin\Debug\netcoreapp3.1\14-Collections.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\14-Collections\bin\Debug\netcoreapp3.1\14-Collections.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\14-Collections\bin\Debug\netcoreapp3.1\14-Collections.dll
+C:\Users\iartu\source\repos\KampIntro\14-Collections\bin\Debug\netcoreapp3.1\14-Collections.pdb
+C:\Users\iartu\source\repos\KampIntro\14-Collections\obj\Debug\netcoreapp3.1\14-Collections.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\14-Collections\obj\Debug\netcoreapp3.1\14-Collections.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\14-Collections\obj\Debug\netcoreapp3.1\14-Collections.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\14-Collections\obj\Debug\netcoreapp3.1\14-Collections.dll
+C:\Users\iartu\source\repos\KampIntro\14-Collections\obj\Debug\netcoreapp3.1\14-Collections.pdb
+C:\Users\iartu\source\repos\KampIntro\14-Collections\obj\Debug\netcoreapp3.1\14-Collections.genruntimeconfig.cache

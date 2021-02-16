@@ -1,0 +1,12 @@
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\bin\Debug\netcoreapp3.1\27-Inheritance.exe
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\bin\Debug\netcoreapp3.1\27-Inheritance.deps.json
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\bin\Debug\netcoreapp3.1\27-Inheritance.runtimeconfig.json
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\bin\Debug\netcoreapp3.1\27-Inheritance.runtimeconfig.dev.json
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\bin\Debug\netcoreapp3.1\27-Inheritance.dll
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\bin\Debug\netcoreapp3.1\27-Inheritance.pdb
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\obj\Debug\netcoreapp3.1\27-Inheritance.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\obj\Debug\netcoreapp3.1\27-Inheritance.AssemblyInfo.cs
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\obj\Debug\netcoreapp3.1\27-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\obj\Debug\netcoreapp3.1\27-Inheritance.dll
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\obj\Debug\netcoreapp3.1\27-Inheritance.pdb
+C:\Users\iartu\source\repos\KampIntro\27-Inheritance\obj\Debug\netcoreapp3.1\27-Inheritance.genruntimeconfig.cache
