@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\32-Linq\\32-LinqProject.csproj",
+      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\32-Linq\\32-LinqProject.csproj",
       "projectName": "32-LinqProject",
-      "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\32-Linq\\32-LinqProject.csproj",
+      "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\32-Linq\\32-LinqProject.csproj",
       "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\32-Linq\\obj\\",
+      "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\32-Linq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

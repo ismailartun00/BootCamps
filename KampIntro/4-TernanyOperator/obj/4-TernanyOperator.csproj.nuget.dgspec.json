@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\4-TernanyOperator\\4-TernanyOperator.csproj": {}
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\4-TernanyOperator\\4-TernanyOperator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\4-TernanyOperator\\4-TernanyOperator.csproj": {
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\4-TernanyOperator\\4-TernanyOperator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\4-TernanyOperator\\4-TernanyOperator.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\4-TernanyOperator\\4-TernanyOperator.csproj",
         "projectName": "4-TernanyOperator",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\4-TernanyOperator\\4-TernanyOperator.csproj",
+        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\4-TernanyOperator\\4-TernanyOperator.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\4-TernanyOperator\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\4-TernanyOperator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

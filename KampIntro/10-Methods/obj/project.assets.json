@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\10-Methods\\10-Methods.csproj",
+      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\10-Methods\\10-Methods.csproj",
       "projectName": "10-Methods",
-      "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\10-Methods\\10-Methods.csproj",
+      "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\10-Methods\\10-Methods.csproj",
       "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\10-Methods\\obj\\",
+      "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\10-Methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

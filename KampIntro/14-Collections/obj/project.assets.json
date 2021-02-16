@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\14-Collections\\14-Collections.csproj",
+      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\14-Collections\\14-Collections.csproj",
       "projectName": "14-Collections",
-      "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\14-Collections\\14-Collections.csproj",
+      "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\14-Collections\\14-Collections.csproj",
       "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\14-Collections\\obj\\",
+      "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\14-Collections\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

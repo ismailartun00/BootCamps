@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\2-Donguler\\2-Donguler.csproj": {}
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\2-Donguler\\2-Donguler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\2-Donguler\\2-Donguler.csproj": {
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\2-Donguler\\2-Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\2-Donguler\\2-Donguler.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\2-Donguler\\2-Donguler.csproj",
         "projectName": "2-Donguler",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\2-Donguler\\2-Donguler.csproj",
+        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\2-Donguler\\2-Donguler.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\2-Donguler\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\2-Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

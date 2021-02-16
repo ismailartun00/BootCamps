@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\7-Metotlar\\7-Metotlar.csproj",
+      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\7-Metotlar\\7-Metotlar.csproj",
       "projectName": "7-Metotlar",
-      "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\7-Metotlar\\7-Metotlar.csproj",
+      "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\7-Metotlar\\7-Metotlar.csproj",
       "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\7-Metotlar\\obj\\",
+      "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\7-Metotlar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

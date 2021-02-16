@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\19-Dictionary\\19-Dictionary.csproj",
+      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\19-Dictionary\\19-Dictionary.csproj",
       "projectName": "19-Dictionary",
-      "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\19-Dictionary\\19-Dictionary.csproj",
+      "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\19-Dictionary\\19-Dictionary.csproj",
       "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\19-Dictionary\\obj\\",
+      "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\19-Dictionary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

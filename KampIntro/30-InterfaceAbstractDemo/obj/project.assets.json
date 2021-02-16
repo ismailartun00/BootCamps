@@ -1696,11 +1696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\30-InterfaceAbstractDemo\\30-InterfaceAbstractDemo.csproj",
+      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\30-InterfaceAbstractDemo\\30-InterfaceAbstractDemo.csproj",
       "projectName": "30-InterfaceAbstractDemo",
-      "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\30-InterfaceAbstractDemo\\30-InterfaceAbstractDemo.csproj",
+      "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\30-InterfaceAbstractDemo\\30-InterfaceAbstractDemo.csproj",
       "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\30-InterfaceAbstractDemo\\obj\\",
+      "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\30-InterfaceAbstractDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

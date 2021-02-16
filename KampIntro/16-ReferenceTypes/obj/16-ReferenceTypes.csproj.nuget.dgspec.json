@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\16-ReferenceTypes\\16-ReferenceTypes.csproj": {}
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\16-ReferenceTypes\\16-ReferenceTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\16-ReferenceTypes\\16-ReferenceTypes.csproj": {
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\16-ReferenceTypes\\16-ReferenceTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\16-ReferenceTypes\\16-ReferenceTypes.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\16-ReferenceTypes\\16-ReferenceTypes.csproj",
         "projectName": "16-ReferenceTypes",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\16-ReferenceTypes\\16-ReferenceTypes.csproj",
+        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\16-ReferenceTypes\\16-ReferenceTypes.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\16-ReferenceTypes\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\16-ReferenceTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

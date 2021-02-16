@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\9-DegerVeReferansTipler\\9-DegerVeReferansTipler.csproj": {}
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\9-DegerVeReferansTipler\\9-DegerVeReferansTipler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\9-DegerVeReferansTipler\\9-DegerVeReferansTipler.csproj": {
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\9-DegerVeReferansTipler\\9-DegerVeReferansTipler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\9-DegerVeReferansTipler\\9-DegerVeReferansTipler.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\9-DegerVeReferansTipler\\9-DegerVeReferansTipler.csproj",
         "projectName": "9-DegerVeReferansTipler",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\9-DegerVeReferansTipler\\9-DegerVeReferansTipler.csproj",
+        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\9-DegerVeReferansTipler\\9-DegerVeReferansTipler.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\9-DegerVeReferansTipler\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\9-DegerVeReferansTipler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

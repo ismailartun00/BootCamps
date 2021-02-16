@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj": {}
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\source\\repos\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj": {
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj",
         "projectName": "6-WhileLoop",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj",
+        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\6-WhileLoop\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\6-WhileLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

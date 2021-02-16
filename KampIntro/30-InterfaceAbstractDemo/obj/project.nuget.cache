@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VlqH6odQkD6wulunSWZCwGtRvdMWWj1V9QPe8pSfY0tn6hQQeaPe7agdUL6Ws882BH2MyLOAe7WdZA9dvnl35Q==",
+  "dgSpecHash": "voVXHIobJ6bwjByXcJOpP8kc6CL8jc+Z0fVbosVIYFmMKec2H5pZHgjIEKTf1xHN5rKZ9HCT74StWSZFr3uMFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iartu\\source\\repos\\KampIntro\\30-InterfaceAbstractDemo\\30-InterfaceAbstractDemo.csproj",
+  "projectFilePath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\30-InterfaceAbstractDemo\\30-InterfaceAbstractDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iartu\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
     "C:\\Users\\iartu\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

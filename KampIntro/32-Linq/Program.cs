@@ -16,7 +16,32 @@ namespace _32_Linq {
                 new Product{ProductId = 4, CategoryId=2, ProductName = "Samsung Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 5000, UnitsInStock = 15},
                 new Product{ProductId = 5, CategoryId=2, ProductName = "Apple Telefon", QuantityPerUnit = "4 GB Ram", UnitPrice = 8000, UnitsInStock = 0},
             };
+            /*//Test(products);
+            //Console.WriteLine("Algorithmic--------------------");
+            GetProducts(products);
+            //Console.WriteLine("Linq---------------------------");
+            GetProductsLinq(products);*/
 
+            //liste içerisinde istenilen eleman var mı yok mu kontrol eder.
+            //AnyTest(products);
+
+            //aradığımız kritere uygun nesnenin kendisini verir.
+            //FindTest(products);
+
+            products.FindAll();
+        }
+
+        private static void FindTest(List<Product> products) {
+            var result = products.Find(p => p.ProductId == 3);
+            Console.WriteLine(result);
+        }
+
+        private static void AnyTest(List<Product> products) {
+            var result = products.Any(p => p.ProductName == "Acer Laptop");
+            Console.WriteLine(result);      //true
+        }
+
+        private static void Test(List<Product> products) {
             Console.WriteLine("Algorithmic--------------------");
             foreach (var product in products) {
                 if (product.UnitPrice > 5000 && product.UnitsInStock > 3) {
@@ -29,13 +54,8 @@ namespace _32_Linq {
             foreach (var product in result) {
                 Console.WriteLine(product.ProductName);
             }
-
-            //Console.WriteLine("Algorithmic--------------------");
-            GetProducts(products);
-
-            //Console.WriteLine("Linq---------------------------");
-            GetProductsLinq(products);
         }
+
         static List<Product> GetProducts(List<Product> products) {
             List<Product> filteredProducts = new List<Product>();
             foreach (var product in products) {
