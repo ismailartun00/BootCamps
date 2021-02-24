@@ -7,3 +7,12 @@ C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\netstandard2.0\Ent
 C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
 C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\iartu\source\repos\Kodlama.io\MyFinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

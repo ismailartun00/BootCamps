@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EorHA7S4fQx3xR+X+sR7lB7HBmWJOjqE/0QZQQLUpQ4Ns1Pq1oilTH0WCMnZIxvVjq66BpFqjj+PHKJmIPzC/g==",
+  "dgSpecHash": "a5kZNNHQI8+JDxd+NC5yk8yjVyS2t58Tsw1FAroGmaHsGHxuNjxTZa9zs+vu8FNoAgqRWToi66K1weCvaiEwrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iartu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\iartu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\iartu\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\source\\repos\\ReCapProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +92,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\iartu\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\iartu\\source\\repos\\ReCapProject\\Business\\Business.csproj"
+            "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\iartu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\iartu\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\iartu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\iartu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Business\\Business.csproj": {}
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Business\\Business.csproj": {
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -108,6 +108,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -129,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\MyFinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\MyFinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",

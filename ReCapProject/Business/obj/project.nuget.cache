@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+dXz73NUx7/TTArcMdPFJ1l1WfPp8n9nXYhwhbsKa8rOayvGyx73CCBQKBBCd0NmYtuwnABLeRCoDateBm2G/g==",
+  "dgSpecHash": "tJbiGyw+Nz215I6CXDafnKOaojIlSYKr/Zc0BCvfJM6b4UZjENY/dzxDguamvx0BwZNOdaNPf2842sDMBzzy0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iartu\\source\\repos\\ReCapProject\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\ReCapProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iartu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\iartu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
