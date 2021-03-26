@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\28-Interfaces\\28-Interfaces.csproj": {}
+    "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\28-Interfaces\\28-Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\28-Interfaces\\28-Interfaces.csproj": {
+    "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\28-Interfaces\\28-Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\28-Interfaces\\28-Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\28-Interfaces\\28-Interfaces.csproj",
         "projectName": "28-Interfaces",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\28-Interfaces\\28-Interfaces.csproj",
+        "projectPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\28-Interfaces\\28-Interfaces.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\28-Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\28-Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,8 +21,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

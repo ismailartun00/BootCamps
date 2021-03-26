@@ -1,23 +1,72 @@
 {
   "version": 2,
-  "dgSpecHash": "voVXHIobJ6bwjByXcJOpP8kc6CL8jc+Z0fVbosVIYFmMKec2H5pZHgjIEKTf1xHN5rKZ9HCT74StWSZFr3uMFA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\30-InterfaceAbstractDemo\\30-InterfaceAbstractDemo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\iartu\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.net.http.winhttphandler\\4.4.0\\system.net.http.winhttphandler.4.4.0.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.private.servicemodel\\4.4.4\\system.private.servicemodel.4.4.4.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.reflection.dispatchproxy\\4.4.0\\system.reflection.dispatchproxy.4.4.0.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.servicemodel.duplex\\4.4.4\\system.servicemodel.duplex.4.4.4.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.servicemodel.http\\4.4.4\\system.servicemodel.http.4.4.4.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.servicemodel.nettcp\\4.4.4\\system.servicemodel.nettcp.4.4.4.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.servicemodel.primitives\\4.4.4\\system.servicemodel.primitives.4.4.4.nupkg.sha512",
-    "C:\\Users\\iartu\\.nuget\\packages\\system.servicemodel.security\\4.4.4\\system.servicemodel.security.4.4.4.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "jZrjuyCpbSxNDKJVSpLpzU3eiS5Q32uYwO77lvOl418p7tAUZvOfAFs1nMnqLIXdBcn9omxNoR8SKppOAqV1ow==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\30-InterfaceAbstractDemo\\30-InterfaceAbstractDemo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.ServiceModel.Security. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Security",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.ServiceModel.NetTcp. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.NetTcp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.ServiceModel.Http. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.ServiceModel.Duplex. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.ServiceModel.Duplex",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package Newtonsoft.Json with version (>= 12.0.2)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 9.0.1 ]",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package NSwag.ApiDescription.Client. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "NSwag.ApiDescription.Client",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.ApiDescription.Client. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.ApiDescription.Client",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

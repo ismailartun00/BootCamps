@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mW/zQ5ZuVsHTv4xMMrwEDj2rqqN34k6YwSBTcnqUeSbd8NJ28uOGij7Qx7EGKijrP4mL72PJQGz1bfWyI+CYZQ==",
+  "dgSpecHash": "R8nc03sDjttHbVpWpUzLPs1sogs0mtPnrL56lAjp0mnZWoHpXb/lDKWU8GKyvs22ObzxuEExI42+2+dNK/ZkMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\15-GenericsIntro\\15-GenericsIntro.csproj",
+  "projectFilePath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\15-GenericsIntro\\15-GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj",
+      "projectUniqueName": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj",
       "projectName": "6-WhileLoop",
-      "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj",
+      "projectPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\6-WhileLoop\\6-WhileLoop.csproj",
       "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\6-WhileLoop\\obj\\",
+      "outputPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\6-WhileLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,7 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -60,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

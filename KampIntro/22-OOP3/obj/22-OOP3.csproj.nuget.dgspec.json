@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\22-OOP3\\22-OOP3.csproj": {}
+    "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\22-OOP3\\22-OOP3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\22-OOP3\\22-OOP3.csproj": {
+    "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\22-OOP3\\22-OOP3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\22-OOP3\\22-OOP3.csproj",
+        "projectUniqueName": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\22-OOP3\\22-OOP3.csproj",
         "projectName": "22-OOP3",
-        "projectPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\22-OOP3\\22-OOP3.csproj",
+        "projectPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\22-OOP3\\22-OOP3.csproj",
         "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\source\\repos\\Kodlama.io\\KampIntro\\22-OOP3\\obj\\",
+        "outputPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\22-OOP3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,8 +21,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
