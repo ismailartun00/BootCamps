@@ -1,0 +1,15 @@
+C:\Users\iartu\source\repos\MyFinalProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\iartu\source\repos\MyFinalProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\iartu\source\repos\MyFinalProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\iartu\source\repos\MyFinalProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\iartu\source\repos\MyFinalProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\iartu\source\repos\MyFinalProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\iartu\source\repos\MyFinalProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete

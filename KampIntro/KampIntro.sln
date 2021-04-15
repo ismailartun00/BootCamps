@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30-InterfaceAbstractDemo", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31-GameProject", "31-GameProject\31-GameProject.csproj", "{0C578F8D-0959-4148-B139-FE0C20EA4DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32-LinqProject", "32-Linq\32-LinqProject.csproj", "{199ED817-8333-4761-9C48-FD03FC511431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32-LinqProject", "32-Linq\32-LinqProject.csproj", "{199ED817-8333-4761-9C48-FD03FC511431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33-EntityFrameworkDemo", "33-EntityFrameworkDemo\33-EntityFrameworkDemo.csproj", "{CC94EBFD-63F9-49B4-8C08-5AEE7A2594E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{199ED817-8333-4761-9C48-FD03FC511431}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{199ED817-8333-4761-9C48-FD03FC511431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{199ED817-8333-4761-9C48-FD03FC511431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC94EBFD-63F9-49B4-8C08-5AEE7A2594E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC94EBFD-63F9-49B4-8C08-5AEE7A2594E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC94EBFD-63F9-49B4-8C08-5AEE7A2594E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC94EBFD-63F9-49B4-8C08-5AEE7A2594E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

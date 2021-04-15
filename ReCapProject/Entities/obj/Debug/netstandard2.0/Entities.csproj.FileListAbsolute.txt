@@ -1,9 +1,0 @@
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\bin\Debug\netstandard2.0\Entities.deps.json
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\bin\Debug\netstandard2.0\Entities.dll
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\bin\Debug\netstandard2.0\Entities.pdb
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\obj\Debug\netstandard2.0\Entities.dll
-C:\Users\iartu\Desktop\ReCapProject-master\ReCapProject-master\Entities\obj\Debug\netstandard2.0\Entities.pdb

@@ -1,5 +1,6 @@
 ﻿using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,44 +12,29 @@ namespace DataAccess.Concrete.InMemory
     public class InMemoryCarDal : ICarDal
     {
         List<Car> _cars;
+
         public InMemoryCarDal()
         {
-            _cars = new List<Car> {
-                new Car{CarId=1,BrandId=1,ColorId=1,ModelYear="2020",DailyPrice=100,Description="Audi"},
-                new Car{CarId=2,BrandId=1,ColorId=1,ModelYear="2020",DailyPrice=100,Description="BMW"},
-                new Car{CarId=3,BrandId=2,ColorId=2,ModelYear="2019",DailyPrice=90,Description="Opel"},
-                new Car{CarId=4,BrandId=2,ColorId=2,ModelYear="2019",DailyPrice=90,Description="Toyota"},
-                new Car{CarId=5,BrandId=3,ColorId=3,ModelYear="2018",DailyPrice=80,Description="Kia"},
-                new Car{CarId=6,BrandId=3,ColorId=3,ModelYear="2018",DailyPrice=80,Description="Renault"},
+            _cars = new List<Car>
+            {
+                new Car { CarId=1, BrandId=10, ColorId=256, ModelYear=2018, DailyPrice=800, Description="VW Jetta 1.6 TDI Comfortline DSG"},
+                new Car { CarId=2, BrandId=20, ColorId=155, ModelYear=2019, DailyPrice=1200, Description="VW Passat 1.6 TDI Comfortline DSG"},
+                new Car { CarId=3, BrandId=30, ColorId=350, ModelYear=2017, DailyPrice=1000, Description="VW Tiguan 1.5 TSI Comfortline DSG"},
+                new Car { CarId=4, BrandId=40, ColorId=120, ModelYear=2020, DailyPrice=2000, Description="VW T-Roc 1.5 TSI Highline DSG"},
+                new Car { CarId=5, BrandId=50, ColorId=450, ModelYear=2016, DailyPrice=700, Description="VW Golf 1.6 TDI Highline DSG"}
             };
+
+
         }
         public void Add(Car car)
         {
-            if (_cars.SingleOrDefault(c => c.CarId == car.CarId) == null)
-            {
-                _cars.Add(car);
-                Console.WriteLine(car.CarId+" numaralı araç listeye eklendi");
-            }
-            else
-            {
-                Console.WriteLine("Farklı CarId numarası kullanınız!!");
-            }            
+            _cars.Add(car);
         }
 
         public void Delete(Car car)
         {
-            Car carToDelete = _cars.SingleOrDefault(c => c.CarId == car.CarId);
-            _cars.Remove(carToDelete);
-        }
-        public void Update(Car car)
-        {
-            //Gönderdiğim ürün ıd'sine  sahip olan listedeki  ürünü bul
-            Car carToUpdate =_cars.SingleOrDefault(c => c.CarId == car.CarId);//Tek bir eleman bulmaya yarar
-            carToUpdate.BrandId = car.BrandId;
-            carToUpdate.ColorId = car.ColorId;
-            carToUpdate.ModelYear = car.ModelYear;
-            carToUpdate.DailyPrice = car.DailyPrice;
-            carToUpdate.Description = car.Description;
+            Car CarToDelete = _cars.SingleOrDefault(c => c.CarId == car.CarId);
+            _cars.Remove(CarToDelete);
         }
 
         public List<Car> GetAll()
@@ -56,12 +42,34 @@ namespace DataAccess.Concrete.InMemory
             return _cars;
         }
 
-        public Car GetById(int id)
+        public void Update(Car car)
         {
-            return _cars.SingleOrDefault(c => c.CarId == id);
+            Car carToUpdate = _cars.SingleOrDefault(c => c.CarId == car.CarId);
+            carToUpdate.CarId = car.CarId;
+            carToUpdate.BrandId = car.BrandId;
+            carToUpdate.ColorId = car.ColorId;
+            carToUpdate.ModelYear = car.ModelYear;
+            carToUpdate.DailyPrice = car.DailyPrice;
+            carToUpdate.Description = car.Description;
+
+        }
+
+        public List<Car> GetAllByBrand(int Id)
+        {
+            return _cars.Where(c => c.CarId == Id).ToList();
         }
 
         public List<Car> GetAll(Expression<Func<Car, bool>> filter = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Car Get(Expression<Func<Car, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<CarDetailDto> GetCarDetails()
         {
             throw new NotImplementedException();
         }

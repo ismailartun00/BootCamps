@@ -44,7 +44,7 @@ namespace _10_Methods {
         }
         static int Multiply(int number1, int number2, int number3) {
             return number1 * number2 * number3;
-        }
+        } 
 
         //params keyword
         //istediğimiz kadar veri gönderebilmemiz için parametreyi dizi gibi tanımlıyoruz.

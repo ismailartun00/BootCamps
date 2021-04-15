@@ -1,0 +1,17 @@
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\iartu\source\repos\ReCapProject\DataAccess\bin\Debug\net5.0\Core.pdb
