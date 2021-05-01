@@ -29,4 +29,45 @@
 		<item key="width" value="600"/>
 		<item key="height" value="400"/>
 	</section>
+	<section name="SourceActionDialog.constructors">
+		<item key="VisibilityModifier" value="1"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+		<item key="InsertPosition.v2" value="2"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="OmitCallToSuper" value="false"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="710"/>
+		<item key="DIALOG_Y_ORIGIN" value="76"/>
+		<item key="DIALOG_WIDTH" value="517"/>
+		<item key="DIALOG_HEIGHT" value="678"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item key="VisibilityModifier" value="1"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+		<item key="InsertPosition.v2" value="2"/>
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item key="SortOrdering" value="false"/>
+		<item key="RemoveFinal" value="false"/>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="705"/>
+		<item key="DIALOG_Y_ORIGIN" value="64"/>
+		<item key="DIALOG_WIDTH" value="526"/>
+		<item key="DIALOG_HEIGHT" value="696"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH" value="350"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT" value="306"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+	</section>
 </section>
