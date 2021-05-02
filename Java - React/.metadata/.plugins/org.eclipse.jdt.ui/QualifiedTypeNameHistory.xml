@@ -2,4 +2,19 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
     <fullyQualifiedTypeName name="interfaces.FileLogger"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.IEntity"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Concrete.NeroCustomerManager"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.ICustomerService"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.ICustomerCheckService"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Adapters.MernisServiceAdapter"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoap"/>
+    <fullyQualifiedTypeName name="tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy"/>
+    <fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.CustomerCheckService"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Concrete.CustomerCheckManager"/>
+    <fullyQualifiedTypeName name="interfaceAbstractDemo.Entities.Customer"/>
 </qualifiedTypeNameHistroy>
