@@ -37,4 +37,25 @@
     <fullyQualifiedTypeName name="gameWithInterface.Services.Order.Conrete.OrderManager"/>
     <fullyQualifiedTypeName name="gameWithInterface.Services.Order.Conrete.SpringDiscountManager"/>
     <fullyQualifiedTypeName name="gameWithInterface.Services.Order.Conrete.WeekendDiscountManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.abstracts.ProductDao"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.entities.abstracts.Entity"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.abstracts.ProductDao"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.business.abstracts.ProductService"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.concretes.HibernateProductDao"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.entities.concretes.Product"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.business.entities.ProductManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.jLogger.jLoggerManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.jLoggerManagerAdapter"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.abstracts.LoggerService"/>
+    <fullyQualifiedTypeName name="eCommerce.entities.abstracts.Entity"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="eCommerce.dataAccess.abstracts.CustomerDao"/>
+    <fullyQualifiedTypeName name="eCommerce.core.abstracts.LoggerService"/>
+    <fullyQualifiedTypeName name="eCommerce.dataAccess.concretes.HibernateCustomerDao"/>
+    <fullyQualifiedTypeName name="eCommerce.business.concretes.CustomerManager"/>
+    <fullyQualifiedTypeName name="eCommerce.business.abstracts.CustomerService"/>
+    <fullyQualifiedTypeName name="eCommerce.entities.concretes.Customer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

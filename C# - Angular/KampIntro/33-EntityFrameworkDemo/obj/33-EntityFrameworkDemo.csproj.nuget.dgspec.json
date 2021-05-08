@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\33-EntityFrameworkDemo\\33-EntityFrameworkDemo.csproj": {}
+    "D:\\Github\\Kodlama.io\\C# - Angular\\KampIntro\\33-EntityFrameworkDemo\\33-EntityFrameworkDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\33-EntityFrameworkDemo\\33-EntityFrameworkDemo.csproj": {
+    "D:\\Github\\Kodlama.io\\C# - Angular\\KampIntro\\33-EntityFrameworkDemo\\33-EntityFrameworkDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\33-EntityFrameworkDemo\\33-EntityFrameworkDemo.csproj",
+        "projectUniqueName": "D:\\Github\\Kodlama.io\\C# - Angular\\KampIntro\\33-EntityFrameworkDemo\\33-EntityFrameworkDemo.csproj",
         "projectName": "33-EntityFrameworkDemo",
-        "projectPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\33-EntityFrameworkDemo\\33-EntityFrameworkDemo.csproj",
-        "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\33-EntityFrameworkDemo\\obj\\",
+        "projectPath": "D:\\Github\\Kodlama.io\\C# - Angular\\KampIntro\\33-EntityFrameworkDemo\\33-EntityFrameworkDemo.csproj",
+        "packagesPath": "C:\\Users\\ismailartun00\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Kodlama.io\\C# - Angular\\KampIntro\\33-EntityFrameworkDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ismailartun00\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

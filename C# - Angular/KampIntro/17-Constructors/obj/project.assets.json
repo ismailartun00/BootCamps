@@ -8,25 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\iartu\\.nuget\\packages\\": {}
+    "C:\\Users\\ismailartun00\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\17-Constructors\\17-Constructors.csproj",
+      "projectUniqueName": "D:\\Github\\Kodlama.io\\C# - Angular\\KampIntro\\17-Constructors\\17-Constructors.csproj",
       "projectName": "17-Constructors",
-      "projectPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\17-Constructors\\17-Constructors.csproj",
-      "packagesPath": "C:\\Users\\iartu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iartu\\GitHub\\Kodlama.io\\KampIntro\\17-Constructors\\obj\\",
+      "projectPath": "D:\\Github\\Kodlama.io\\C# - Angular\\KampIntro\\17-Constructors\\17-Constructors.csproj",
+      "packagesPath": "C:\\Users\\ismailartun00\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\Kodlama.io\\C# - Angular\\KampIntro\\17-Constructors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iartu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ismailartun00\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
