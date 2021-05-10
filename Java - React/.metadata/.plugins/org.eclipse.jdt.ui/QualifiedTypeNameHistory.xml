@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
-    <fullyQualifiedTypeName name="interfaces.FileLogger"/>
-    <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.IEntity"/>
     <fullyQualifiedTypeName name="interfaceAbstractDemo.Concrete.NeroCustomerManager"/>
     <fullyQualifiedTypeName name="java.time.Instant"/>
     <fullyQualifiedTypeName name="interfaceAbstractDemo.Abstract.BaseCustomerManager"/>
@@ -58,4 +55,9 @@
     <fullyQualifiedTypeName name="eCommerce.business.abstracts.CustomerService"/>
     <fullyQualifiedTypeName name="eCommerce.entities.concretes.Customer"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 </qualifiedTypeNameHistroy>
