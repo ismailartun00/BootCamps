@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Renklerimiz -->
+    <color name="anaRenk">#EF6C00</color>
+    <color name="koyuAnaRenk">#E65100</color>
+    <color name="yaziRenk1">#FFFFFF</color>
+    <color name="yaziRenk2">#9F9F9F</color>
+</resources>
+

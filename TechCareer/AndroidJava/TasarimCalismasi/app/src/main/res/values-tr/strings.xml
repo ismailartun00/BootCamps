@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TasarimCalismasi</string>
+    <string name="pizzaBaslik">Etli Peynirli</string>
+    <string name="peynirYazi">Peynir</string>
+    <string name="sucukYazi">Sucuk</string>
+    <string name="zeytinYazi">Zeytin</string>
+    <string name="biberYazi">Biber</string>
+    <string name="teslimatSure">20 dk</string>
+    <string name="teslimatBaslik">Teslimat</string>
+    <string name="pizzaAciklama">Et sever , pizzanla tanışmaya hazırlan !</string>
+    <string name="fiyatYazi">90 ₺</string>
+    <string name="buttonYazi">SEPETE EKLE</string>
+</resources>
