@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_nav"
+    app:startDestination="@id/anasayfaFragment">
+
+    <fragment
+        android:id="@+id/anasayfaFragment"
+        android:name="com.example.gittigidiyorappexample.fragment.AnasayfaFragment"
+        android:label="fragment_anasayfa"
+        tools:layout="@layout/fragment_anasayfa" />
+    <fragment
+        android:id="@+id/horizantalDetayFragment"
+        android:name="com.example.gittigidiyorappexample.fragment.DetayFragment"
+        android:label="fragment_horizantal_detay"
+        tools:layout="@layout/fragment_detay" />
+    <fragment
+        android:id="@+id/verticalDetayFragment"
+        android:name="com.example.gittigidiyorappexample.fragment.VerticalDetayFragment"
+        android:label="fragment_vertical_detay"
+        tools:layout="@layout/fragment_vertical_detay" />
+</navigation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kesfet"
+        android:icon="@drawable/ic_home"
+        android:title="Keşfet" />
+    <item
+        android:id="@+id/kategori"
+        android:icon="@drawable/ic_category"
+        android:title="Kategoriler"/>
+    <item
+        android:id="@+id/sepet"
+        android:icon="@drawable/ic_card"
+        android:title="Sepetim"/>
+    <item
+        android:id="@+id/hesap"
+        android:icon="@drawable/ic_person"
+        android:title="Hesabım" />
+</menu>

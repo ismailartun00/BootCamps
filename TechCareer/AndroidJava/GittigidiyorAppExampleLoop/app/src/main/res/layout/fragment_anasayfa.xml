@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.AnasayfaFragment">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarAnasayfa"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/ggLogo"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logo"
+            tools:layout_editor_absoluteX="106dp"
+            tools:layout_editor_absoluteY="3dp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:background="@drawable/serachview_background"
+        android:iconifiedByDefault="false"
+        android:queryHint="Keşfetmeye Bak"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbarAnasayfa" />
+
+    <Button
+        android:id="@+id/button"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00FFFFFF"
+        android:text="Günün Fırsatları"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toStartOf="@+id/button2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchView" />
+
+    <Button
+        android:id="@+id/button2"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00FFFFFF"
+        android:text="Kampanyalar"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toStartOf="@+id/button3"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/button"
+        app:layout_constraintTop_toBottomOf="@+id/searchView" />
+
+    <Button
+        android:id="@+id/button3"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00FFFFFF"
+        android:text="Keşfet"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/button2"
+        app:layout_constraintTop_toBottomOf="@+id/searchView" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/slider_recyclerView"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/parent_recyclerview"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:backgroundTint="#B6B0B0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/slider_recyclerView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

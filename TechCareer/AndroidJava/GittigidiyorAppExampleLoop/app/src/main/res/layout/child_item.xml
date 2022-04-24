@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <!--CardView that holds the elements
+        of the child RecyclerView -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <!--Image in the CardView-->
+            <!--Here we have already given
+                the source for the ImageView
+                and we will not assign it
+                in the Java code-->
+            <!--So all the ImageViews will
+                hold the same image-->
+            <ImageView
+                android:id="@+id/img_child_item"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="5dp"
+                android:background="@color/black"
+                android:src="@drawable/logo"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_toEndOf="@id/img_child_item"
+                android:padding="12dp"
+                android:layout_below="@+id/img_child_item"
+                android:layout_alignParentStart="true"
+                android:orientation="vertical">
+
+                <!--Text in the CardView-->
+                <TextView
+                    android:id="@+id/child_item_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    />
+            </LinearLayout>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</FrameLayout>

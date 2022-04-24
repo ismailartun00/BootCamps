@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    app:layout_constraintCircleRadius="10dp"
+    tools:context=".fragment.AnasayfaFragment">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarAnasayfa"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/ggLogo"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logo"
+            tools:layout_editor_absoluteX="106dp"
+            tools:layout_editor_absoluteY="3dp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- android:background="@drawable/serachview_background" -->
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/searchview_bg"
+        android:elevation="7dp"
+        android:iconifiedByDefault="false"
+        android:queryHint="Keşfetmeye Bak"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbarAnasayfa" />
+
+    <Button
+        android:id="@+id/button"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00FFFFFF"
+        android:text="Günün Fırsatları"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toStartOf="@+id/button2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchView" />
+
+    <Button
+        android:id="@+id/button2"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00FFFFFF"
+        android:text="Kampanyalar"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toStartOf="@+id/button3"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/button"
+        app:layout_constraintTop_toBottomOf="@+id/searchView" />
+
+    <Button
+        android:id="@+id/button3"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#00FFFFFF"
+        android:text="Keşfet"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/button2"
+        app:layout_constraintTop_toBottomOf="@+id/searchView" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv"
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        android:background="#E1DCDC"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button2" />
+
+    <ImageView
+        android:id="@+id/imageViewYG"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/iv_radius"
+        android:src="@drawable/yildizlargicidi"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewKK"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rv" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Yıldızlar Geçidi"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toStartOf="@+id/textView2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewYG" />
+
+    <ImageView
+        android:id="@+id/imageViewKK"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/iv_radius"
+        android:src="@drawable/kazananlarkulubu"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewSU"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/imageViewYG"
+        app:layout_constraintTop_toBottomOf="@+id/rv" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="    Kazananlar \n        Kulübü"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toStartOf="@+id/textView4"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewKK" />
+
+    <ImageView
+        android:id="@+id/imageViewSU"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/iv_radius"
+        android:src="@drawable/soneklenen"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewCA"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/imageViewKK"
+        app:layout_constraintTop_toBottomOf="@+id/rv" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="65dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="8dp"
+        android:text="  Son Eklenen\n       Ürünler"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toStartOf="@+id/textView3"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewSU" />
+
+    <ImageView
+        android:id="@+id/imageViewCA"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/iv_radius"
+        android:src="@drawable/cokaranan"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/imageViewSU"
+        app:layout_constraintTop_toBottomOf="@+id/rv" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+
+        android:text="Çok Arananlar"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/textView4"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewCA" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/kampanya"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="9dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5"
+        app:menu="@menu/bottom_nav_menu"
+        app:labelVisibilityMode="labeled"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
