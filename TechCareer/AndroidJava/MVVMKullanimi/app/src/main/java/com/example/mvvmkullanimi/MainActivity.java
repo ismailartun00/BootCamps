@@ -2,6 +2,8 @@ package com.example.mvvmkullanimi;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
+import androidx.lifecycle.Observer;
+import androidx.lifecycle.ViewModelProvider;
 
 import android.os.Bundle;
 import android.widget.Button;
@@ -12,32 +14,30 @@ import com.example.mvvmkullanimi.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding tasarim;
+    private MainActivityViewModel viewModel;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         tasarim = DataBindingUtil.setContentView(this, R.layout.activity_main);
+        viewModel = new ViewModelProvider(this).get(MainActivityViewModel.class);
+
         tasarim.setMainActivityNesnesi(this);
 
-        tasarim.setHesaplamaSonucu("0");
+        viewModel.getSonuc().observe(this, new Observer<String>() {
+            @Override
+            public void onChanged(String s) {
+                tasarim.setHesaplamaSonucu(s);
+            }
+        });
 
     }
 
     public void buttonToplamaTikla(String alinanSayi1, String alinanSayi2){
-        int sayi1 = Integer.parseInt(alinanSayi1);
-        int sayi2 = Integer.parseInt(alinanSayi2);
-
-        int toplam = sayi1 + sayi2;
-
-        tasarim.setHesaplamaSonucu(String.valueOf(toplam));
+        viewModel.toplamaYap(alinanSayi1, alinanSayi2);
     }
 
     public void buttonCarpmaTikla(String alinanSayi1, String alinanSayi2){
-        int sayi1 = Integer.parseInt(alinanSayi1);
-        int sayi2 = Integer.parseInt(alinanSayi2);
-
-        int carpim = sayi1 * sayi2;
-
-        tasarim.setHesaplamaSonucu(String.valueOf(carpim));
+        viewModel.carpmaYap(alinanSayi1, alinanSayi2);
     }
 }
