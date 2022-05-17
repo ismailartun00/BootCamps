@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_up">Yeni Hesap Oluştur</string>
+    <string name="sign_in">Giriş Yap</string>
+    <string name="uesrname">Kullanıcı Adı</string>
+    <string name="email">Email</string>
+    <string name="password">Parola</string>
+    <string name="create_acoount">HESAP OLUŞTUR</string>
+    <string name="login_with_your_account">Hesabınızla Giriş Yapınız</string>
+    <string name="login">Giriş Yap</string>
+</resources>

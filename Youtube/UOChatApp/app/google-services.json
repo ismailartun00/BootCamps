@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140176253777",
+    "project_id": "uochatapp-9facf",
+    "storage_bucket": "uochatapp-9facf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140176253777:android:0ed4bedf4fefdec03e2970",
+        "android_client_info": {
+          "package_name": "com.example.uochatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140176253777-q7ppqv0i3ovhb3pdrporl9mfqdsvg0c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uochatapp",
+            "certificate_hash": "cb9646d42e8c5ad83a54668244fe318c40f5361e"
+          }
+        },
+        {
+          "client_id": "140176253777-6n87r9u5h637gu70jpkjv52voqmoric8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVs4u4przIcMxXuI8YMY52d4Z3fh7HHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140176253777-6n87r9u5h637gu70jpkjv52voqmoric8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

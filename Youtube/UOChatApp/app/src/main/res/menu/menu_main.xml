@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Tüm Kullanıcılar"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/mainLogout"
+        android:title="@string/log_out"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+</menu>

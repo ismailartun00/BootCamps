@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UOChatApp</string>
+    <string name="sign_up">Yeni Hesap Oluştur</string>
+    <string name="sign_in">Hesabım Var</string>
+    <string name="uesrname">Kullanıcı Adı</string>
+    <string name="email">Email</string>
+    <string name="password">Parola</string>
+    <string name="create_acoount">HESAP OLUŞTUR</string>
+    <string name="login_with_your_account">Hesabınızla Giriş Yapınız</string>
+    <string name="login">Giriş Yap</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_out">Çıkış Yap</string>
+</resources>
