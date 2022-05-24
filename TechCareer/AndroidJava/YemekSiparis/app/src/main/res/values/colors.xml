@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#D2042D</color>
+
+    <!-- Customized Colors -->
+    <color name="statusbarColor">#1C2135</color>
+    <color name="toolbarColor">#5A6794</color>
+    <color name="mainBtnColor">#8794C0</color>
+    <color name="rvColorOther">#E1DCDC</color>
+    <color name="rvColor">#E7E9EE</color>
+    <color name="selectedrvColor">#D8CDB0</color>
+    <color name="otherBtnColor">#E63946</color>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563361319939",
+    "project_id": "yemek-siparis-18bd7",
+    "storage_bucket": "yemek-siparis-18bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563361319939:android:91f30ea268eed5a63d1236",
+        "android_client_info": {
+          "package_name": "com.example.yemeksiparis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563361319939-89634a2r020v6g1ilm2mk2a9rsank62m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqfPTqF_bj-KrPPvJZPHXFsqDWGvaPhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563361319939-89634a2r020v6g1ilm2mk2a9rsank62m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,127 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable name="detayToolbarBaslik" type="String" />
+        <variable name="detayFragment" type="com.example.yemeksiparis.fragment.DetayFragment" />
+        <variable name="kullanici_adi" type="String" />
+        <variable name="yemekNesnesi" type="com.example.yemeksiparis.entity.Yemekler" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/detayScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/rvColor">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarDetay"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@color/toolbarColor"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="?attr/actionBarTheme"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:title="@{detayToolbarBaslik}" />
+
+        <ImageView
+            android:id="@+id/ivYemekResmi"
+            android:layout_width="340dp"
+            android:layout_height="225dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbarDetay"
+            tools:ignore="NotSibling"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/textViewYemekAdi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="@{yemekNesnesi.yemek_adi}"
+            android:textSize="18dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivYemekResmi" />
+
+        <TextView
+            android:id="@+id/textViewYemekFiyati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text='@{String.valueOf(yemekNesnesi.yemek_fiyat) + " ₺"}'
+            android:textSize="18dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewYemekAdi" />
+
+        <Button
+            android:id="@+id/buttonAzalt"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/rounded_corner"
+            android:text="-"
+            app:backgroundTint="@color/otherBtnColor"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewYemekAdedi"
+            android:layout_width="36dp"
+            android:layout_height="37dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="16dp"
+            android:gravity="center"
+            android:text="1"
+            android:textSize="28dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/buttonAzalt" />
+
+        <Button
+            android:id="@+id/buttonArttir"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/rounded_corner"
+            android:text="+"
+            app:backgroundTint="@color/otherBtnColor"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/textViewYemekAdedi" />
+
+        <Button
+            android:id="@+id/buttonIncele"
+            android:layout_width="142dp"
+            android:layout_height="55dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="@color/mainBtnColor"
+            android:onClick='@{() -> detayFragment.buttonEkle(String.valueOf(textViewYemekAdi.getText()),yemekNesnesi.yemek_resim_adi,(Integer.parseInt(textViewYemekAdedi.getText().toString()) * yemekNesnesi.yemek_fiyat),Integer.parseInt(textViewYemekAdedi.getText().toString()),kullanici_adi)}'
+            android:text=" Sepete Ekle"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewLorem"
+            android:layout_width="295dp"
+            android:layout_height="111dp"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:text='Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) '
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewYemekFiyati" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable name="sepetAdapter" type="com.example.yemeksiparis.adapter.SepetAdapter" />
+        <variable name="sepetNesnesi" type="com.example.yemeksiparis.entity.SepetYemekler" />
+        <variable name="sepetFragment" type="com.example.yemeksiparis.fragment.SepetFragment" />
+        <variable name="sepetNesnesiId" type="Integer" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/sepetCard"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/ivSepetResim"
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginEnd="8dp"
+                    app:layout_constraintEnd_toStartOf="@+id/textViewSepetYemekAd"
+                    app:layout_constraintStart_toEndOf="@+id/textViewSepetYemekAdet"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:srcCompat="@tools:sample/avatars" />
+
+                <TextView
+                    android:id="@+id/textViewSepetYemekAdet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="32dp"
+                    android:hint="0"
+                    android:text='@{sepetNesnesi.yemek_siparis_adet + " adet"}'
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+
+                <!-- android:onClick='@{() -> sepetAdapter.sepettenYemekSil(sepetNesnesiId, "ismailartun00")}' -->
+
+                <TextView
+                    android:id="@+id/textViewSepetYemekAd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="32dp"
+                    android:layout_marginEnd="80dp"
+                    android:hint="Yemek Adı"
+                    android:text="@{sepetNesnesi.yemek_adi.toString()}"
+                    app:layout_constraintEnd_toStartOf="@+id/textViewSepetYemekFiyat"
+                    app:layout_constraintStart_toEndOf="@+id/ivSepetResim"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/textViewSepetYemekFiyat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="32dp"
+                    android:layout_marginEnd="16dp"
+                    android:hint="Yemek Fiyatı"
+                    android:text='@{sepetNesnesi.yemek_fiyat + " ₺"}'
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <Button
+                    android:id="@+id/buttonSil"
+                    android:layout_width="64dp"
+                    android:layout_height="29dp"
+                    android:layout_marginTop="28dp"
+                    android:layout_marginEnd="32dp"
+                    android:layout_marginBottom="8dp"
+                    android:backgroundTint="@color/mainBtnColor"
+                    android:text="Çıkart"
+                    android:textSize="8dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewSepetYemekFiyat" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
